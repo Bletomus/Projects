@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context=".Create_Contact"
+    >
+
+    <android.support.constraint.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/whites"
+    >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="0dp"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/editName"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="43dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="37dp"
+            android:ems="10"
+            android:hint="@string/nameTip"
+            android:inputType="textPersonName"
+            app:layout_constraintBottom_toTopOf="@+id/country"
+            app:layout_constraintEnd_toStartOf="@+id/editAlpha"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/editFace" />
+
+        <EditText
+            android:id="@+id/editAlpha"
+            android:layout_width="0dp"
+            android:layout_height="39dp"
+            android:ems="10"
+            android:hint="@string/emailTip"
+            android:inputType="textPersonName"
+            app:layout_constraintBaseline_toBaselineOf="@+id/editName"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/editName" />
+
+        <EditText
+            android:id="@+id/editContact"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginEnd="11dp"
+            android:ems="10"
+            android:hint="@string/contactTip"
+            android:inputType="phone"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/code"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <EditText
+            android:id="@+id/editAddress"
+            android:layout_width="0dp"
+            android:layout_height="79dp"
+            android:layout_marginTop="87dp"
+            android:layout_marginBottom="89dp"
+            android:ems="10"
+            android:gravity="start|top"
+            android:hint="@string/addressTip"
+            android:inputType="textMultiLine"
+            app:layout_constraintBottom_toBottomOf="@+id/editBith"
+            app:layout_constraintEnd_toEndOf="@+id/imageButton"
+            app:layout_constraintStart_toStartOf="@+id/editBith"
+            app:layout_constraintTop_toTopOf="@+id/editContact" />
+
+        <Button
+            android:id="@+id/saver"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="13dp"
+            android:clickable="false"
+            android:onClick="onSaver"
+            android:text="@string/save"
+            android:visibility="invisible"
+            style="?android:attr/borderlessButtonStyle"
+            app:layout_constraintBaseline_toBaselineOf="@+id/delete"
+            app:layout_constraintStart_toEndOf="@+id/editter" />
+
+        <Button
+            android:id="@+id/editter"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="6dp"
+            android:onClick="onEdittor"
+            android:text="@string/edit"
+            style="?android:attr/borderlessButtonStyle"
+            app:layout_constraintBaseline_toBaselineOf="@+id/saver"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <ImageButton
+            android:id="@+id/editFace"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="18dp"
+            android:adjustViewBounds="true"
+            android:contentDescription="@string/image"
+            android:maxWidth="100dip"
+            android:onClick="onSelector"
+            android:scaleType="centerCrop"
+            style="?android:attr/borderlessButtonStyle"
+            android:src="@drawable/favorites"
+            app:layout_constraintEnd_toEndOf="@+id/editName"
+            app:layout_constraintTop_toBottomOf="@+id/toolbar" />
+
+        <Button
+            android:id="@+id/Update"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:clickable="false"
+            android:onClick="onUpdater"
+            android:text="Update"
+            style="?android:attr/borderlessButtonStyle"
+            android:visibility="invisible"
+            app:layout_constraintBaseline_toBaselineOf="@+id/delete"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        <Button
+            android:id="@+id/delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="11dp"
+            android:layout_marginBottom="29dp"
+            android:onClick="onDeleter"
+            android:text="Delete"
+            style="?android:attr/borderlessButtonStyle"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/Update" />
+
+        <TextView
+            android:id="@+id/editBith"
+            android:layout_width="262dp"
+            android:layout_height="52dp"
+            android:layout_marginStart="6dp"
+            android:layout_marginBottom="133dp"
+            android:hint="@string/birthTip"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent" />
+
+        <Spinner
+            android:id="@+id/country"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginEnd="1dp"
+            app:layout_constraintBottom_toBottomOf="@+id/code"
+            app:layout_constraintEnd_toEndOf="@+id/editFace"
+            app:layout_constraintStart_toStartOf="@+id/editContact"
+            app:layout_constraintTop_toTopOf="@+id/code" />
+
+        <Spinner
+            android:id="@+id/code"
+            android:layout_width="135dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="120dp"
+            android:layout_marginBottom="118dp"
+            app:layout_constraintBottom_toTopOf="@+id/editAddress"
+            app:layout_constraintStart_toStartOf="@+id/editAlpha"
+            app:layout_constraintTop_toBottomOf="@+id/imageButton" />
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_marginEnd="48dp"
+            android:onClick="onPick"
+            style="?android:attr/borderlessButtonStyle"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/toolbar"
+            app:srcCompat="@drawable/heart_empty" />
+
+    </android.support.constraint.ConstraintLayout>
+</ScrollView>
