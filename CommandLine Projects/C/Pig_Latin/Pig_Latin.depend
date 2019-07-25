@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1564008024 source:c:\users\lee flame\documents\github\projects\commandline projects\c\pig_latin\main.c
+	"pig_latin.h"
+
+1564008141 c:\users\lee flame\documents\github\projects\commandline projects\c\pig_latin\pig_latin.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1564010062 source:c:\users\lee flame\documents\github\projects\commandline projects\c\pig_latin\pig_latin.c
+	"pig_latin.h"
+
