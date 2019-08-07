@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1565061085 source:c:\users\lee flame\documents\github\projects\commandline projects\c\vowel_count\main.c
+	"vowel_count.h"
+
+1565060918 source:c:\users\lee flame\documents\github\projects\commandline projects\c\vowel_count\vowel_count.c
+	"vowel_count.h"
+
+1565060887 c:\users\lee flame\documents\github\projects\commandline projects\c\vowel_count\vowel_count.h
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Student Records</string>
+    <string name ="id">ID:</string>
+    <string name ="nameS">NAME:</string>
+    <string name ="Department">DEPARTMENT:</string>
+    <string name ="Age">AGE:</string>
+    <string name ="idPrompt">Enter the ID here</string>
+    <string name ="nameSPrompt">Enter the ages here</string>
+    <string name ="DepartmentPrompt">Enter the department here</string>
+    <string name ="AgePrompt">Enter age here</string>
+    <string name ="phoneNumber">PHONE NUMBER:</string>
+    <string name ="phoneNumberPrompt">Enter the phone number here</string>
+    <string name ="insert">Insert</string>
+    <string name ="update">Update</string>
+    <string name ="delete">Delete</string>
+</resources>

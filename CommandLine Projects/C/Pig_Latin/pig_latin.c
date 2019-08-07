@@ -7,7 +7,6 @@ char * getInput()
     fgets(userInput,MAX, stdin);
     int index = strlen(userInput) - 1;
     memmove(&userInput[index], &userInput[index + 1], strlen(userInput) - index);
-    index = strlen(userInput);
     return userInput;
 }
 

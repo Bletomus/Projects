@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FruitStore</string>
+    <string name="createOrder">Create order </string>
+    <string name="h1"> Log in Site</string>
+    <string name="names">Enter name here</string>
+    <string name="log">Log in </string>
+    <string name="pass">Enter password here</string>
+    <string name="bacc">Log out</string>
+    <string name="er">The username or password you have entered is not correct!</string>
+    <string name="k">OK</string>
+    <string name="ex">Exit</string>
+    <string name="un">Username</string>
+    <string name="pas">Password</string>
+
+</resources>

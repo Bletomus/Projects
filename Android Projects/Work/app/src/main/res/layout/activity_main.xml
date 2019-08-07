@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/title1"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/singleChoiceTitle1"
+        />
+    <TextView
+        android:id="@+id/title2"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="@string/singleChoiceTitle2"
+        />
+    <RadioGroup android:id="@+id/radioGroup"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:orientation="vertical"
+        >
+        <RadioButton
+            android:id="@+id/tens"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/tens"
+            />
+        <RadioButton
+            android:id="@+id/twenties"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/twenties"
+            />
+        <RadioButton
+            android:id="@+id/thirties"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="@string/thirties"
+            />
+
+    </RadioGroup>
+    <Button
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="@string/next"
+        android:onClick="onNext"
+        />
+
+</LinearLayout>

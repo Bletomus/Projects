@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name = "h1">50dp</dimen>
+    <dimen name = "h2">25dp</dimen>
+    <dimen name = "t1">30sp</dimen>
+</resources>

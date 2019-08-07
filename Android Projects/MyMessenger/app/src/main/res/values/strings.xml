@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Messenger</string>
+    <string name="Send">Send Message</string>
+    <string name="implicit">Send using else where</string>
+    <string name="msgu">Enter the text here</string>
+    <string name="chooser">Select APP to senwith</string>
+</resources>
