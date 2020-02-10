@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1581304394 source:c:\users\lee flame\documents\github\projects\that time i did c for corona\bitwise_operations\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<math.h>
+	<ctype.h>
+
