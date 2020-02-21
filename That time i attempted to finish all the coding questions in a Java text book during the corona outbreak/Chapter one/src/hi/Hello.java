@@ -7,7 +7,7 @@ public class Hello
 	{
 		System.out.println("Welcome to Java,\r\n" + "Welcome to Computer Science");
 		System.out.println("Programming is fun.");
-
+		System.out.println("".getClass().getSimpleName());
 	}
 
 }
