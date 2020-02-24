@@ -1,4 +1,4 @@
-## Projects
+# Projects
 Collection of small and large exercises in order to to keep my skills sharpened and explore new methods of programing in various languages and platforms
 
 FOLDERS STRUCTURE AND EXERCISES
