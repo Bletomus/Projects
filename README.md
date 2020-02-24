@@ -12,7 +12,7 @@ Collection of small and large exercises in order to to keep my skills sharpened 
 -Least Significant Bit
 -Most Significant Bit
 
-####Conditional_Statements
+######Conditional_Statements
 
 -Maximum Finder
 -Minimum Finder
