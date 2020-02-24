@@ -1,26 +1,29 @@
-# Projects
+## Projects
 Collection of small and large exercises in order to to keep my skills sharpened and explore new methods of programing in various languages and platforms
 
 FOLDERS STRUCTURE AND EXERCISES
 ------------------------------------------------------------------------------------------------------------------------------------------------------
--C Projects and exercises
+#C Projects and exercises
 
---Basic_c
-
---Bitwise_Operations
----Least Significant Bit
----Most Significant Bit
-
---Conditional_Statements
----Maximum Finder
----Minimum Finder
----Maximum Finder between three numbers
+Basic_c
 ------------------------------------------------------------------------------------------------------------------------------------------------------
--Blender 3D design
---Monkey Rhapsody
+Bitwise_Operations
 ------------------------------------------------------------------------------------------------------------------------------------------------------
+-Least Significant Bit
+-Most Significant Bit
 
-UPDATES OVER TIME
+Conditional_Statements
+------------------------------------------------------------------------------------------------------------------------------------------------------
+-Maximum Finder
+-Minimum Finder
+-Maximum Finder between three numbers
+
+#Blender 3D design
+------------------------------------------------------------------------------------------------------------------------------------------------------
+-Monkey Rhapsody
+
+
+#UPDATES OVER TIME
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Update February 21 2020
  
