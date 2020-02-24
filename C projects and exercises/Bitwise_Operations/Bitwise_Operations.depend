@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1582510596 source:c:\users\lee flame\documents\github\projects\that time i did c for corona\bitwise_operations\main.c
+	"categories.h"
+
+1582510640 source:c:\users\lee flame\documents\github\projects\that time i did c for corona\bitwise_operations\categories.c
+	"categories.h"
+
+1582510597 c:\users\lee flame\documents\github\projects\that time i did c for corona\bitwise_operations\categories.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<math.h>
+	<ctype.h>
+
+1582510640 source:c:\users\lee flame\documents\github\projects\c projects and exercises\bitwise_operations\categories.c
+	"categories.h"
+
+1582510597 c:\users\lee flame\documents\github\projects\c projects and exercises\bitwise_operations\categories.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<math.h>
+	<ctype.h>
+

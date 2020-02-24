@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1582510640 source:c:\users\lee flame\documents\github\projects\c projects and exercises\conditional_statements\categories.c
+	"categories.h"
+
+1582510597 c:\users\lee flame\documents\github\projects\c projects and exercises\conditional_statements\categories.h
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<math.h>
+	<ctype.h>
+
+1582512136 source:c:\users\lee flame\documents\github\projects\c projects and exercises\conditional_statements\main.c
+	"categories.h"
+
