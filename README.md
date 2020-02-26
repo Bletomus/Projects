@@ -5,14 +5,14 @@ Collection of small and large exercises in order to to keep my skills sharpened 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 C Projects and exercises
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Basic_c
+Basic c
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-Bitwise_Operations
+Bitwise Operations
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Least Significant Bit
 2. Most Significant Bit
 
-Conditional_Statements
+Conditional Statements
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Maximum Finder
 2. Minimum Finder
@@ -21,6 +21,19 @@ Conditional_Statements
 Blender 3D design
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Monkey Rhapsody
+
+Python Exercises and Projects
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Basic Input output
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Basic i/o operations
+
+Basic Operators
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Checking input data type
+2. Calculating discounts and total sales for a given product
+
+
 
 
 **UPDATES**
@@ -40,3 +53,9 @@ Addition of three exercises inside of the C Projects and exercises
 
 Addition of my first 3d render
 1. Monkey Rhapsody
+
+Update February 26 2020
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Addition of two python exercises inside of the Python Exercises and Projects
+1. Shifting text to the right of the screen on the display
+2. Displaying a grid with squares of equal size
