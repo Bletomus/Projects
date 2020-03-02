@@ -21,6 +21,7 @@ Conditional Statements
 Blender 3D design
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Monkey Rhapsody
+2. Low Polygon Apple
 
 Python Exercises and Projects
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -59,3 +60,8 @@ Update February 26 2020
 Addition of two python exercises inside of the Python Exercises and Projects
 1. Shifting text to the right of the screen on the display
 2. Displaying a grid with squares of equal size
+
+Update March 2 2020
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Addition of a new blender render
+1. Low Polygon Apple
