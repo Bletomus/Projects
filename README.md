@@ -12,7 +12,7 @@ C Projects and exercises
 2.1 Least Significant Bit
 2.2 Most Significant Bit
 
-3Conditional Statements
+3. Conditional Statements
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 3.1 Maximum Finder
 3.2 Minimum Finder
