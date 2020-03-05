@@ -46,7 +46,12 @@ C++ Exercises and Projects
 1. Most Significant Bit
 2. Least Significant Bit 
 
-
+Basic Matlab
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Digital Image Processing with matlab
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Point Operation and image display
+2. Frame Average and Alignment 
 
 **UPDATES**
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -82,3 +87,23 @@ Update March 3 2020
 Addition of two C++ exercises
 1. Maximum between two numbers
 2. Maximum between three numbers
+
+Update March 5 2020
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Addition of Matlab pattern creation algorithms
+
+Addition of two Digital Image Processing exercises
+1. Point Operations and image display
+2. Frame Average and alignment
+
+
+**Exercises and Projects Sources**
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Digital Image Processing
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Stanford EE368 Digital image processing homework
+
+Matlab
+------------------------------------------------------------------------------------------------------------------------------------------------------
+codeforwin.org C Programming Exercises
