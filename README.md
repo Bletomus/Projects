@@ -22,6 +22,7 @@ Blender 3D design
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 1. Monkey Rhapsody
 2. Low Polygon Apple
+3. A wedge
 
 Python Exercises and Projects
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -95,6 +96,12 @@ Addition of Matlab pattern creation algorithms
 Addition of two Digital Image Processing exercises
 1. Point Operations and image display
 2. Frame Average and alignment
+
+Update March 17 2020
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Addition of new Blender render
+1. A wedge
 
 
 **Exercises and Projects Sources**
