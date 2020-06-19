@@ -39,17 +39,30 @@ void menu()
 {
     system("cls");
     int option = 0;
-    printf("\tImagination Bank\n");
-    printf("\t\tMain Menu\n");
-    printf("1. Create a new account\n");
-    printf("2. Update account information\n");
-    printf("3. Withdraw an amount of money\n");
-    printf("4. Deposit an amount of money in the account\n");
-    printf("5. View account details\n");
-    printf("6. Exit\n");
-    scanf("%d", &option);
-}
+    do
+    {
+        printf("\tImagination Bank\n");
+        printf("\t\tMain Menu\n");
+        printf("1. Create a new account\n");
+        printf("2. Update account information\n");
+        printf("3. Withdraw an amount of money\n");
+        printf("4. Deposit an amount of money in the account\n");
+        printf("5. View account details\n");
+        printf("6. Exit\n");
+        scanf("%d", &option);
+    }while(option > 6 || option < 1);
+    switch(option)
+    {
+        case 1:
 
+            break;
+        case 2:
+            break;
+        default:
+            break;
+    }
+
+}
 void advanced_menu()
 {
     system("cls");

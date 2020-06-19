@@ -1,0 +1,3 @@
+int loginScreenNormal();
+int loginScreenAdmin();
+
