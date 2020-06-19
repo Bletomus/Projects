@@ -1,5 +1,5 @@
 # Projects
-Collection of small and large exercises in order to to keep my skills sharpened and explore new methods of programing in various languages and platforms
+Collection of small and large exercises in order to keep my skills sharpened and explore new methods of programing in various languages and platforms
 
 **FOLDERS STRUCTURE AND EXERCISES**
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -31,6 +31,7 @@ Blender 3D design
 2. Low Polygon Apple
 3. A wedge
 4. The Big Blue
+5. Red Paper Plane
 
 Python Exercises and Projects
 ------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -69,6 +70,18 @@ Java
 
 1. Area of a Pentagon
 2. Area of a polygon
+
+Chapter Five
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Kilograms to Pounds
+2. Average positive and negative numbers
+
+
+Robotics
+------------------------------------------------------------------------------------------------------------------------------------------------------
+1. Basic input output with ROS
+
 
 **Exercises and Projects Sources**
 ------------------------------------------------------------------------------------------------------------------------------------------------------

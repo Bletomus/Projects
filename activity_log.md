@@ -62,3 +62,18 @@ Update March 30 2020
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 Addition of new project in C 
 1. Bank Management System
+
+Update April 19 2020
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Addition of new Blender render 
+1. Red Paper Plane
+
+Addition of Java Exercises
+1. Kilograms to Pounds Converter
+2. Average Number of Positive Values and Negative Values
+
+Update June 19 2020
+------------------------------------------------------------------------------------------------------------------------------------------------------
+Addition of new Robotics Project
+1. Basic node communication with ROS
+  
