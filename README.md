@@ -32,6 +32,7 @@ Blender 3D design
 3. A wedge
 4. The Big Blue
 5. Red Paper Plane
+6. Cycles Vase
 
 Python Exercises and Projects
 ------------------------------------------------------------------------------------------------------------------------------------------------------
