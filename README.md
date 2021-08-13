@@ -33,6 +33,7 @@ Collection of small and large exercises in order to keep my skills sharpened and
 4. The Big Blue
 5. Red Paper Plane
 6. Cycles Vase
+7. King
 
 ## Python Exercises and Projects
 ------------------------------------------------------------------------------------------------------------------------------------------------------
